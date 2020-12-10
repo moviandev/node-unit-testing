@@ -1,0 +1,26 @@
+{
+  "name": "unit-testing-course",
+  "version": "0.0.1",
+  "description": "This is a project create to prove my knowledge in unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moviandev/node-unit-testing.git"
+  },
+  "keywords": [
+    "node",
+    "unit",
+    "test",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Matheus Viana <matheus_o_viana@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moviandev/node-unit-testing/issues"
+  },
+  "homepage": "https://github.com/moviandev/node-unit-testing#readme"
+}
